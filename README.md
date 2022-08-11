@@ -1,6 +1,6 @@
-# ml-premodeling-modelbuilding
-LIBRARIES :
+## ml-premodeling-modelbuilding
 
+#LIBRARIES :
 pandas
 matplotlib
 seaborn 
@@ -8,17 +8,16 @@ numpy
 sklearn
 
 
-MODEL BUILDING :
+#MODEL BUILDING :
+Linear regression
+Gradient boosting
+RANDOM FOREST 
+desition tree
+KNN
 
-## Linear regression
-## Gradient boosting
-## RANDOM FOREST 
-## KNN
+#MODEL IMPROVEMENT :
+CROSSVALIDATION
+KFOLD 
+HYPERPARAMETRE TUNING
 
-MODEL IMPROVEMENT :
-
-##CROSSVALIDATION
-##KFOLD 
-## HYPERPARAMETRE TUNING
-
-MODEL EVALUATION
+#MODEL EVALUATION
